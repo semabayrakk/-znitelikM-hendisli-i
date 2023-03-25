@@ -1,4 +1,4 @@
-#01- Öznitelik Seçimi ve Öznitelik Mühendisliği
+# 01- Öznitelik Seçimi ve Öznitelik Mühendisliği
 
 **1. Adım: Veri Ön İşleme**
 
